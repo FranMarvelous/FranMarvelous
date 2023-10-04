@@ -8,9 +8,9 @@
 
 - 📫 You can reach me at **franciscalazocerpa@gmail.com**
 
-- 📄 Know about my experiences [I´m still waiting for the perfect opportunity as a trainee frontend developer, as I don´t have any previous experience on it.](I´m still waiting for the perfect opportunity as a trainee frontend developer, as I don´t have any previous experience on it.)
+- 📄 Know about my experiences: I´ve done a fullstack development bootcamp, there I fell in love with frontend. I´m still waiting for the perfect opportunity as a trainee frontend developer, as I don´t have any previous experience on it. I try to learn as much as I can on my own, I like to be learning new things :)
 
-- ⚡ Fun fact **I loooooooooooooove fries, hanging out with my friends, and watching movies with my beloved cat named Rebe.**
+- ⚡ Fun fact: **I loooooooooooooove fries, hanging out with my friends, and watching movies with my beloved cat named Rebe.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -22,4 +22,3 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=franmarvelous&show_icons=true&locale=en&layout=compact" alt="franmarvelous" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=franmarvelous&show_icons=true&locale=en" alt="franmarvelous" /></p>
