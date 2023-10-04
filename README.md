@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=franmarvelous&label=Profile%20views&color=0e75b6&style=flat" alt="franmarvelous" /> </p>
 
-- 🌱 I’m currently learning **React, more about JavaScript, and UX Research.**
+- 🌱 I’m currently learning **React, more about JavaScript, SaSS and UX Research.**
 
 - 📫 You can reach me at **franciscalazocerpa@gmail.com**
 
@@ -22,5 +22,5 @@
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=FranMarvelous&theme=tokyonight_duo&hide_border=true"><br>
   
-<img src="https://github-readme-stats.vercel.app/api?username=FranMarvelous&show_icons=true&theme=tokyonight&bg_color=00000000&true&hide_border=true" height="160px"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Poipurin&layout=compact&theme=tokyonight&bg_color=00000000&show_icons=true&hide_border=true"> <br>
+<img src="https://github-readme-stats.vercel.app/api?username=FranMarvelous&show_icons=true&theme=tokyonight&bg_color=00000000&true&hide_border=true" height="160px"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FranMarvelous&layout=compact&theme=tokyonight&bg_color=00000000&show_icons=true&hide_border=true"> <br>
 
