@@ -8,7 +8,7 @@
 
 - 📫 You can reach me at **franciscalazocerpa@gmail.com**
 
-- 📄 Know about my experiences: I´ve done a fullstack development bootcamp, there I fell in love with frontend. I´m still waiting for the perfect opportunity as a trainee frontend developer, as I don´t have any previous experience on it. I try to learn as much as I can on my own, I like to be learning new things :)
+- 📄 Know about my experiences: I´ve done a fullstack development bootcamp, there I fell in love with frontend. I´m still waiting for the perfect opportunity as a trainee frontend developer, as I don´t have any previous experience on it. I try to learn as much as I can on my own, I´m always learning new things :)
 
 - ⚡ Fun fact: **I loooooooooooooove fries, hanging out with my friends, and watching movies with my beloved cat named Rebe.**
 
