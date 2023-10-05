@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Francisca Lazo</h1>
 <h3 align="center">A jr. frontend developer & User Experience Designer student from Chile</h3>
-<img align="right" alt="Coding" width="400" src="https://repository-images.githubusercontent.com/507089682/889a6863-d25c-4a54-b2c5-8efad7260eeb">
+<img align="right" alt="Coding" width="400" src="https://images-cdn.exchange.art/qshqgr0cjqmr5phD1tK-3gnohYWmfcXwx6VWnk27o38?ext=fastly&optimize=medium">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=franmarvelous&label=Profile%20views&color=0e75b6&style=flat" alt="franmarvelous" /> </p>
 
@@ -24,3 +24,4 @@
   
 <img src="https://github-readme-stats.vercel.app/api?username=FranMarvelous&show_icons=true&theme=tokyonight&bg_color=00000000&true&hide_border=true" height="160px"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FranMarvelous&layout=compact&theme=tokyonight&bg_color=00000000&show_icons=true&hide_border=true"> <br>
 
+<img align="center" alt="Coding Cat" width="400" src="https://repository-images.githubusercontent.com/507089682/889a6863-d25c-4a54-b2c5-8efad7260eeb">
