@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Francisca Lazo</h1>
 <h3 align="center">A jr. frontend developer & User Experience Designer student from Chile</h3>
-<img align="right" alt="Coding" width="400" src="https://images-cdn.exchange.art/qshqgr0cjqmr5phD1tK-3gnohYWmfcXwx6VWnk27o38?ext=fastly&optimize=medium">
+<img align="right" alt="Coding" width="400" src="https://s3.amazonaws.com/shecodesio-production/uploads/files/000/045/633/original/Coding_Cat.gif?1662445143">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=franmarvelous&label=Profile%20views&color=0e75b6&style=flat" alt="franmarvelous" /> </p>
 
