@@ -23,5 +23,3 @@
 <img src="https://github-readme-streak-stats.herokuapp.com?user=FranMarvelous&theme=tokyonight_duo&hide_border=true"><br>
   
 <img src="https://github-readme-stats.vercel.app/api?username=FranMarvelous&show_icons=true&theme=tokyonight&bg_color=00000000&true&hide_border=true" height="160px"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FranMarvelous&layout=compact&theme=tokyonight&bg_color=00000000&show_icons=true&hide_border=true"> <br>
-
-<img align="center" alt="Coding Cat" width="400" src="https://repository-images.githubusercontent.com/507089682/889a6863-d25c-4a54-b2c5-8efad7260eeb">
