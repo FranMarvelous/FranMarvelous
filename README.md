@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=franmarvelous&label=Profile%20views&color=0e75b6&style=flat" alt="franmarvelous" /> </p>
 
-- 🌱 I’m currently learning **React, more about JavaScript, SaSS and UX Research.**
+- 🌱 I’m currently learning **more about front-end and UX Research.**
 
 - 📫 You can reach me at **franciscalazocerpa@gmail.com**
 
