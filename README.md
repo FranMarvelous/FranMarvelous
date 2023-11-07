@@ -1,4 +1,4 @@
-[![banner-Light.png](https://i.postimg.cc/CKbTdn0k/banner-Light.png)](https://postimg.cc/CZM6Q1zx)
+<!-- [![banner-Light.png](https://i.postimg.cc/CKbTdn0k/banner-Light.png)](https://postimg.cc/CZM6Q1zx) -->
 
 <h1 align="center">Hi 👋, I'm Fran</h1>
 <h3 align="center">A jr. frontend developer & User Experience Designer student from Chile</h3>
